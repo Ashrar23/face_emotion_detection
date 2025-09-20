@@ -1,0 +1,9 @@
+tensorflow-macos
+tensorflow-metal
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python-headless
+streamlit
+kaggle
